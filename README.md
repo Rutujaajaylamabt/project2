@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Rutuja Lambat
+Created by Rutuja Lambat.
